@@ -1,0 +1,6 @@
+.catalog:
+  name: writelife
+  version: 0.0.1
+  description: |
+    writelife cloud note
+  questions:

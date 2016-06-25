@@ -1,0 +1,7 @@
+name: writelife
+description: |
+  Magic cloud note
+version: 0.0.1
+category: Clustering
+maintainer: Aware Li <goodforever@yahoo.com>
+minimum_rancher_version: v1.0.0-rc7

@@ -1,0 +1,4 @@
+writelife:
+  image: 192.168.0.12:5000/magole/writelife
+  ports:
+    - "9000:9000"
